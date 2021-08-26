@@ -1,7 +1,7 @@
 <h1>Miami Landing</h1>
 <ul>
-<li><a href ="https://andreyserhovetc.github.io/Miami/">Here</a> you can see the Demo.</li>
-<li><a href ="https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3">Here</a>you can find design of landing page.</li>
+<li><a href ="https://andreyserhovetc.github.io/Miami/">Here </a> you can see the Demo.</li>
+<li><a href ="https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3">Here </a>you can find design of landing page.</li>
 </ul>
 
 <h2>Description</h2>
